@@ -1,8 +1,8 @@
 
 # Air Canva on Whiteboard
 
-This project presents a real time video based pointing method which allows sketching and writing text over air in front of camera. Air Canvas is developed for communicating a concept or presenting an idea in the real-world space. Proposed method track the colored object in the camera frames and here color detection and tracking is used in order to achieve the objective. The color marker is detected and a mask is produced. It includes the further
-steps of morphological operations on the mask produced which are erosion and dilation and with that whatever you will draw in air will reflect on the whiteboard.
+This project presents a real-time video-based pointing method that allows sketching and writing text over the air in front of a camera. Air Canvas is developed for communicating a concept or presenting an idea in real-world space. The proposed method tracks the colored object in the camera frames and here color detection and tracking is used in order to achieve the objective. The color marker is detected and a mask is produced. It includes further
+steps of morphological operations on the mask produced which are erosion and dilation and with that whatever you will draw in the air will reflect on the whiteboard.
 
 
 
@@ -25,7 +25,7 @@ steps of morphological operations on the mask produced which are erosion and dil
 To run the Script, run the following command
 
 ```bash
-  python3 Air canva python code.py
+  python3 Air_canva_python_code.py
 ```
 
 
@@ -34,20 +34,31 @@ To run the Script, run the following command
 ## Screenshots 
 Color detector track bars
 ![p1](https://github.com/Rockposedon/3-Year-major-project/assets/101548529/32447fd0-a764-4ec1-acd6-275aaf939f32)
+<br>
 
-2![p3](https://github.com/Rockposedon/3-Year-major-project/assets/101548529/9f85c518-a4d1-46c3-b8cd-35d5cac7c6d6)
+Mask to detect hand moment
+![p2](https://github.com/Rockposedon/3-Year-major-project/assets/101548529/8cc63d7f-4bc7-4a9f-a8a4-a06f3c8ee2e7)
+<br>
 
+Tracking by webcam
+![p3](https://github.com/Rockposedon/3-Year-major-project/assets/101548529/9f85c518-a4d1-46c3-b8cd-35d5cac7c6d6)
+<br>
 
-3
-file:///home/paritosh/Downloads/p2.png
+Using a clear button to clear the window
+![p4](https://github.com/Rockposedon/3-Year-major-project/assets/101548529/5966109a-ed92-4213-b2c0-b95bc48202ea)
+<br>
 
-4
+Using different colors from the color palette.
+![p5](https://github.com/Rockposedon/3-Year-major-project/assets/101548529/65ad6244-4ebb-4ff3-a35b-7b9684893a60)
+<br>
 
-5
+Different colors on the whiteboard
+![p6](https://github.com/Rockposedon/3-Year-major-project/assets/101548529/17f0824a-e0f8-4394-9b01-4860d396a83a)
+<br>
 
-6
-
-7
+Choosing the close button to close the whole program
+![p7](https://github.com/Rockposedon/3-Year-major-project/assets/101548529/b7f5d6d9-3c45-44a6-abdb-a0d02c258b08)
+<br>
 
 
 
@@ -102,7 +113,7 @@ Start the Application
 - Light/dark mode toggle
 - Live previews
 - Fullscreen mode
-- Cross platform
+- Cross-platform
 
 
 ## 🔗 Links
