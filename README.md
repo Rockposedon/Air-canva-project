@@ -34,31 +34,31 @@ To run the Script, run the following command
 ## Screenshots 
 Color detector track bars
 ![p1](https://github.com/Rockposedon/3-Year-major-project/assets/101548529/32447fd0-a764-4ec1-acd6-275aaf939f32)
-<br>
+</br>
 
 Mask to detect hand moment
 ![p2](https://github.com/Rockposedon/3-Year-major-project/assets/101548529/8cc63d7f-4bc7-4a9f-a8a4-a06f3c8ee2e7)
-<br>
+</br>
 
 Tracking by webcam
 ![p3](https://github.com/Rockposedon/3-Year-major-project/assets/101548529/9f85c518-a4d1-46c3-b8cd-35d5cac7c6d6)
-<br>
+</br>
 
 Using a clear button to clear the window
 ![p4](https://github.com/Rockposedon/3-Year-major-project/assets/101548529/5966109a-ed92-4213-b2c0-b95bc48202ea)
-<br>
+</br>
 
 Using different colors from the color palette.
 ![p5](https://github.com/Rockposedon/3-Year-major-project/assets/101548529/65ad6244-4ebb-4ff3-a35b-7b9684893a60)
-<br>
+</br>
 
 Different colors on the whiteboard
 ![p6](https://github.com/Rockposedon/3-Year-major-project/assets/101548529/17f0824a-e0f8-4394-9b01-4860d396a83a)
-<br>
+</br>
 
 Choosing the close button to close the whole program
 ![p7](https://github.com/Rockposedon/3-Year-major-project/assets/101548529/b7f5d6d9-3c45-44a6-abdb-a0d02c258b08)
-<br>
+</br>
 
 
 
