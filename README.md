@@ -28,9 +28,41 @@ To run the Script, run the following command
   python3 Air_canva_python_code.py
 ```
 
+Clone the project
 
+```bash
+  git clone https://github.com/Rockposedon/3-Year-major-project.git
+```
 
+Go to the project directory
 
+```bash
+  cd 3-Year-major-project
+```
+
+Listing all file 
+
+```bash
+  ls
+```
+
+Install Packages and Libraries
+
+```bash
+  sudo apt install python3-pip
+  pip install numpy
+  sudo apt install python3-opencv
+  python3 -c "import cv2; print(cv2.__version__)" {To verify the installation, import the cv2 module and print the OpenCV version}
+ 
+
+```
+
+Start the Application
+
+```bash
+  python3  Air canva python code.py
+
+```
 ## Screenshots 
 Color detector track bars
 ![p1](https://github.com/Rockposedon/3-Year-major-project/assets/101548529/32447fd0-a764-4ec1-acd6-275aaf939f32)
@@ -75,49 +107,13 @@ Choosing the close button to close the whole program
 </br>
 
 
-Clone the project
-
-```bash
-  git clone https://github.com/Rockposedon/3-Year-major-project.git
-```
-
-Go to the project directory
-
-```bash
-  cd 3-Year-major-project
-```
-
-Listing all file 
-
-```bash
-  ls
-```
-
-Install Packages and Libraries
-
-```bash
-  sudo apt install python3-pip
-  pip install numpy
-  sudo apt install python3-opencv
-  python3 -c "import cv2; print(cv2.__version__)" {To verify the installation, import the cv2 module and print the OpenCV version}
- 
-
-```
-
-Start the Application
-
-```bash
-  python3  Air canva python code.py
-
-```
 ## Color Reference
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
 | Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+
 
 
 ## Features
